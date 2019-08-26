@@ -26,12 +26,7 @@
                     "value": "English"
                 }
             ],
-            "previewImageURLs": [
-                "intro/preview1.jpg",
-                "intro/preview2.jpg",
-                "intro/preview3.jpg",
-                "intro/preview4.jpg"
-            ]
+            "previewImageURLs": []
         }
     ]
 }
