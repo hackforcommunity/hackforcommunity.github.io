@@ -7,17 +7,17 @@
     "formatVersion": "1.2",
     "documents": [
         {
-            "title": "Intro",
-            "overviewSubtitle": "...",
-            "detailSubtitle": "...",
-            "description": "...",
+            "title": "intro",
+            "overviewSubtitle": "asdf",
+            "detailSubtitle": "sdf",
+            "description": "dsa",
             "difficultyLevel": "advanced",
             "attributes": ["foundation", "programming"],
             "contentIdentifier": "org.hackforcommunity.intro",
             "contentVersion": "2.1",
             "url": "https://hackforcommunity.github.io/intro/Intro.playgroundbook.zip",
-            "publishedDate": "2018-11-17T21:13:57+00:00",
-            "lastUpdatedDate": "2018-11-18T21:13:57+00:00",
+            "publishedDate": "2019-08-17T21:13:57+00:00",
+            "lastUpdatedDate": "2019-08-18T21:13:57+00:00",
             "thumbnailURL": "intro/thumbnail.jpg",
             "bannerImageURL": "intro/banner.jpg",
             "additionalInformation": [
