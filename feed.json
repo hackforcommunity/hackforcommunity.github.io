@@ -3,7 +3,7 @@
     "subtitle": "A Collection of Swift Lessons",
     "publisherName": "Hack For Coummunity",
     "feedIdentifier": "org.hackforcommunity",
-    "contactURL": "mailto:richard.robinson@hackforcommunity.org",
+    "contactURL": "https;//hackforcommunity.github.io",
     "formatVersion": "1.2",
     "documents": [
         {
@@ -12,9 +12,8 @@
             "detailSubtitle": "sdf",
             "description": "dsa",
             "difficultyLevel": "advanced",
-            "attributes": ["foundation", "programming"],
             "contentIdentifier": "org.hackforcommunity.intro",
-            "contentVersion": "2.1",
+            "contentVersion": "1.0",
             "url": "intro/Intro.playgroundbook.zip",
             "publishedDate": "2019-08-17T21:13:57+00:00",
             "lastUpdatedDate": "2019-08-18T21:13:57+00:00",
