@@ -13,7 +13,7 @@
             "description": "...",
             "difficultyLevel": "advanced",
             "attributes": ["foundation", "programming"],
-            "contentIdentifier": "intro.org.hackforcommunity",
+            "contentIdentifier": "org.hackforcommunity.intro",
             "contentVersion": "2.1",
             "url": "https://hackforcommunity.github.io/intro/Intro.playgroundbook.zip",
             "publishedDate": "2018-11-17T21:13:57+00:00",
