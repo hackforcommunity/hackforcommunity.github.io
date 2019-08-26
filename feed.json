@@ -15,7 +15,7 @@
             "attributes": ["foundation", "programming"],
             "contentIdentifier": "org.hackforcommunity.intro",
             "contentVersion": "2.1",
-            "url": "https://hackforcommunity.github.io/intro/Intro.playgroundbook.zip",
+            "url": "intro/Intro.playgroundbook.zip",
             "publishedDate": "2019-08-17T21:13:57+00:00",
             "lastUpdatedDate": "2019-08-18T21:13:57+00:00",
             "thumbnailURL": "intro/thumbnail.jpg",
