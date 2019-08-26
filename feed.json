@@ -18,8 +18,8 @@
             "url": "https://hackforcommunity.github.io/intro/Intro.playgroundbook.zip",
             "publishedDate": "2018-11-17T21:13:57+00:00",
             "lastUpdatedDate": "2018-11-18T21:13:57+00:00",
-            "thumbnailURL": "img/thumbnail.jpg",
-            "bannerImageURL": "img/banner.jpg",
+            "thumbnailURL": "../img/thumbnail.jpg",
+            "bannerImageURL": "../img/banner.jpg",
             "additionalInformation": [
                 {
                     "name": "Languages",
@@ -27,10 +27,10 @@
                 }
             ],
             "previewImageURLs": [
-                "img/preview1.jpg",
-                "img/preview2.jpg",
-                "img/preview3.jpg",
-                "img/preview4.jpg"
+                "../img/preview1.jpg",
+                "../img/preview2.jpg",
+                "../img/preview3.jpg",
+                "../img/preview4.jpg"
             ]
         }
     ]
